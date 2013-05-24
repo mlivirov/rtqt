@@ -1,0 +1,208 @@
+NDCUS =  5a
+ne2000probe failed
+tc_interface_open - device open failed, errno =  86
+tc_interface_open - device open failed, errno =  86
+tc_interface_open - device open failed, errno =  86
+tc_interface_open - device open failed, errno =  86
+tc_interface_open - device open failed, errno =  86
+tc_interface_open - device open failed, errno =  86
+82545EM_COPPER started, IP: 192.168.210.55
+tc_interface_open() - no interface struct; iface_no =  1
+tc_interface_open() - no interface struct; iface_no =  1
+tc_interface_open() - no interface struct; iface_no =  1
+tc_interface_open() - no interface struct; iface_no =  1
+tc_interface_open() - no interface struct; iface_no =  1
+tc_interface_open() - no interface struct; iface_no =  1
+tc_interface_open() - no interface struct; iface_no =  1
+Handle    Name             CT
+------------------------------
+ 41D9B508 Main Task        6.9
+ 41DF85BC Idle Task       93.1
+ 41E84410 Exit Task        0.0
+ 41E8E830 IPTASK           0.0
+ 41E8FED0 IPTIMER          0.0
+ 41DF8164 mon              0.0
+ 41F94030 Win32 Thread     0.0
+ 41F98A40 Win32 Thread     0.0
+Handle    Name             CT
+------------------------------
+ 41D9B508 Main Task       54.9
+ 41DF85BC Idle Task       43.7
+ 41E84410 Exit Task        0.0
+ 41E8E830 IPTASK           0.0
+ 41E8FED0 IPTIMER          0.0
+ 41DF8164 mon              0.0
+ 41F94030 Win32 Thread     0.0
+ 41F98A40 Win32 Thread     0.0
+ 41FB7D10 Win32 Thread     1.4
+Handle    Name             CT
+------------------------------
+ 41D9B508 Main Task        6.4
+ 41DF85BC Idle Task       93.1
+ 41E84410 Exit Task        0.0
+ 41E8E830 IPTASK           0.0
+ 41E8FED0 IPTIMER          0.0
+ 41DF8164 mon              0.0
+ 41F94030 Win32 Thread     0.0
+ 41F98A40 Win32 Thread     0.0
+ 41FB7D10 Win32 Thread     0.5
+Handle    Name             CT
+------------------------------
+ 41D9B508 Main Task       14.1
+ 41DF85BC Idle Task       83.4
+ 41E84410 Exit Task        0.0
+ 41E8E830 IPTASK           0.0
+ 41E8FED0 IPTIMER          0.0
+ 41DF8164 mon              0.0
+ 41F94030 Win32 Thread     0.1
+ 41F98A40 Win32 Thread     0.0
+ 41FB7D10 Win32 Thread     2.4
+Handle    Name             CT
+------------------------------
+ 41D9B508 Main Task       24.3
+ 41DF85BC Idle Task       71.5
+ 41E84410 Exit Task        0.0
+ 41E8E830 IPTASK           0.0
+ 41E8FED0 IPTIMER          0.0
+ 41DF8164 mon              0.0
+ 41F94030 Win32 Thread     0.0
+ 41F98A40 Win32 Thread     0.0
+ 41FB7D10 Win32 Thread     4.2
+QThread: Destroyed while thread is still running
+QThread: Destroyed while thread is still running
+finish_interface_close called
+
+RTKernel-32 exit function
+
+Program terminated, exit code: 0NDCUS =  5a
+ne2000probe failed
+tc_interface_open - device open failed, errno =  86
+tc_interface_open - device open failed, errno =  86
+tc_interface_open - device open failed, errno =  86
+tc_interface_open - device open failed, errno =  86
+tc_interface_open - device open failed, errno =  86
+tc_interface_open - device open failed, errno =  86
+82545EM_COPPER started, IP: 192.168.210.55
+tc_interface_open() - no interface struct; iface_no =  1
+tc_interface_open() - no interface struct; iface_no =  1
+tc_interface_open() - no interface struct; iface_no =  1
+tc_interface_open() - no interface struct; iface_no =  1
+tc_interface_open() - no interface struct; iface_no =  1
+tc_interface_open() - no interface struct; iface_no =  1
+tc_interface_open() - no interface struct; iface_no =  1
+Handle    Name             CT
+------------------------------
+ 41D9B508 Main Task        6.7
+ 41DF85BC Idle Task       93.3
+ 41E84410 Exit Task        0.0
+ 41E8E830 IPTASK           0.0
+ 41E8FED0 IPTIMER          0.0
+ 41DF8164 mon              0.0
+ 41F94030 Win32 Thread     0.0
+ 41F98A40 Win32 Thread     0.0
+Handle    Name             CT
+------------------------------
+ 41D9B508 Main Task       54.5
+ 41DF85BC Idle Task       44.2
+ 41E84410 Exit Task        0.0
+ 41E8E830 IPTASK           0.0
+ 41E8FED0 IPTIMER          0.0
+ 41DF8164 mon              0.0
+ 41F94030 Win32 Thread     0.0
+ 41F98A40 Win32 Thread     0.0
+ 41FB7D10 Win32 Thread     1.3
+Handle    Name             CT
+------------------------------
+ 41D9B508 Main Task        0.0
+ 41DF85BC Idle Task       100.0
+ 41E84410 Exit Task        0.0
+ 41E8E830 IPTASK           0.0
+ 41E8FED0 IPTIMER          0.0
+ 41DF8164 mon              0.0
+ 41F94030 Win32 Thread     0.0
+ 41F98A40 Win32 Thread     0.0
+ 41FB7D10 Win32 Thread     0.0
+Handle    Name             CT
+------------------------------
+ 41D9B508 Main Task        0.0
+ 41DF85BC Idle Task       100.0
+ 41E84410 Exit Task        0.0
+ 41E8E830 IPTASK           0.0
+ 41E8FED0 IPTIMER          0.0
+ 41DF8164 mon              0.0
+ 41F94030 Win32 Thread     0.0
+ 41F98A40 Win32 Thread     0.0
+ 41FB7D10 Win32 Thread     0.0
+Handle    Name             CT
+------------------------------
+ 41D9B508 Main Task        0.0
+ 41DF85BC Idle Task       100.0
+ 41E84410 Exit Task        0.0
+ 41E8E830 IPTASK           0.0
+ 41E8FED0 IPTIMER          0.0
+ 41DF8164 mon              0.0
+ 41F94030 Win32 Thread     0.0
+ 41F98A40 Win32 Thread     0.0
+ 41FB7D10 Win32 Thread     0.0
+Handle    Name             CT
+------------------------------
+ 41D9B508 Main Task        0.0
+ 41DF85BC Idle Task       100.0
+ 41E84410 Exit Task        0.0
+ 41E8E830 IPTASK           0.0
+ 41E8FED0 IPTIMER          0.0
+ 41DF8164 mon              0.0
+ 41F94030 Win32 Thread     0.0
+ 41F98A40 Win32 Thread     0.0
+ 41FB7D10 Win32 Thread     0.0
+Handle    Name             CT
+------------------------------
+ 41D9B508 Main Task        0.0
+ 41DF85BC Idle Task       100.0
+ 41E84410 Exit Task        0.0
+ 41E8E830 IPTASK           0.0
+ 41E8FED0 IPTIMER          0.0
+ 41DF8164 mon              0.0
+ 41F94030 Win32 Thread     0.0
+ 41F98A40 Win32 Thread     0.0
+ 41FB7D10 Win32 Thread     0.0
+Handle    Name             CT
+------------------------------
+ 41D9B508 Main Task        7.0
+ 41DF85BC Idle Task       91.9
+ 41E84410 Exit Task        0.0
+ 41E8E830 IPTASK           0.0
+ 41E8FED0 IPTIMER          0.0
+ 41DF8164 mon              0.0
+ 41F94030 Win32 Thread     0.0
+ 41F98A40 Win32 Thread     0.0
+ 41FB7D10 Win32 Thread     1.1
+Handle    Name             CT
+------------------------------
+ 41D9B508 Main Task       19.9
+ 41DF85BC Idle Task       77.7
+ 41E84410 Exit Task        0.0
+ 41E8E830 IPTASK           0.0
+ 41E8FED0 IPTIMER          0.0
+ 41DF8164 mon              0.0
+ 41F94030 Win32 Thread     0.0
+ 41F98A40 Win32 Thread     0.0
+ 41FB7D10 Win32 Thread     2.4
+Handle    Name             CT
+------------------------------
+ 41D9B508 Main Task       11.8
+ 41DF85BC Idle Task       85.7
+ 41E84410 Exit Task        0.0
+ 41E8E830 IPTASK           0.0
+ 41E8FED0 IPTIMER          0.0
+ 41DF8164 mon              0.0
+ 41F94030 Win32 Thread     0.0
+ 41F98A40 Win32 Thread     0.0
+ 41FB7D10 Win32 Thread     2.5
+QThread: Destroyed while thread is still running
+QThread: Destroyed while thread is still running
+finish_interface_close called
+
+RTKernel-32 exit function
+
+Program terminated, exit code: 0
